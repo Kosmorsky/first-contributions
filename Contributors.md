@@ -6044,6 +6044,7 @@ Conor Shields (https://github.com/cshields236)
 - [R. Alex Clark](https://github.com/Aclark2089)
 - [Markus (Qoutroy)](https://github.com/qoutroy)
 - [Lee Magbanua](https://github.com/leesenpai)
+- Kos
 - [Zach Van Uum](https://github.com/zvanuum)
 - [Akhil Garg](https://github.com/akhilgarg007)
 - [Drew Davis](https://github.com/kalaborative)
